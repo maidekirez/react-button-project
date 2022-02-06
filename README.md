@@ -1,3 +1,3 @@
-# react-sfyked
+# react-button-project
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-sfyked)
